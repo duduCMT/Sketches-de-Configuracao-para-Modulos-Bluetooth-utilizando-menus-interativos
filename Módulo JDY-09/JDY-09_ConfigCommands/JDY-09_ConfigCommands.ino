@@ -1,6 +1,6 @@
 /* 
- * Sketch: Modulo Bluetooth JDY-09 - Config Commands
- * Autor: Eduardo Lima Costa 
+ * Sketch: Modulo Bluetooth JDY-09 - Config Commands.
+ * Autor: Eduardo Lima Costa.
  */
 
 #include <SoftwareSerial.h>

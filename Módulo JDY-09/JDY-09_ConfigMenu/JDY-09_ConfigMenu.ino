@@ -1,7 +1,7 @@
 
 /* 
- * Sketch: Módulo Bluetooth JDY-09 - Config Menu
- * Autor: Eduardo Lima Costa 
+ * Sketch: Módulo Bluetooth JDY-09 - Config Menu.
+ * Autor: Eduardo Lima Costa.
  */
 
 #include <SoftwareSerial.h>
